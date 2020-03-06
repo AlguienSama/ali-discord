@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3498debb-3682-4ee1-96bf-b5b0b2a144d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -49,34 +54,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583525816286</updated>
-      <workItem from="1583525818473" duration="183000" />
+      <workItem from="1583525818473" duration="1151000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1583526080808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583526080808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Notifications" timestamp="1583525981945">
+    <state x="275" y="23" key="#Notifications" timestamp="1583526126477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583525981945" />
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583526126477" />
     <state x="435" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583525871232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583525871232" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1583525838380">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1583526078719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583525838380" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583526078719" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1583526004595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583526004595" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1583525934404">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1583528213001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583525934404" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583528213001" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583525972661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
